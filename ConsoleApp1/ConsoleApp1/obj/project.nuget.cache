@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "sN+jTtjirH0=",
+  "success": true,
+  "projectFilePath": "D:\\TG-BOT\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Erokh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Erokh\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\Erokh\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Erokh\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512",
+    "C:\\Users\\Erokh\\.nuget\\packages\\telegram.bot\\22.10.3\\telegram.bot.22.10.3.nupkg.sha512"
+  ],
+  "logs": []
+}
